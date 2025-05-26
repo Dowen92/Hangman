@@ -1,1 +1,1 @@
-Hangman game created usinf React.js
+Hangman game created using React.js
